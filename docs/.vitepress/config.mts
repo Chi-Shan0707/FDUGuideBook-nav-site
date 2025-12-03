@@ -98,7 +98,7 @@ function sidebar() {
       {
         text: '关于',
         items: [
-          { text: '社区链接', link: '/about' },
+          { text: '关于我们', link: '/about' },
         ]
       }
     ]
