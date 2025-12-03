@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import path from 'path'
+
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -70,8 +72,8 @@ export default defineConfig({
     },
     resolve: {
       alias: {
-        '@': import.meta.dirname,
-      },
+        '@': path.resolve(__dirname, './'), // 指向 docs/
+      }
     }
   },
 })

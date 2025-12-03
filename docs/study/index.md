@@ -24,7 +24,7 @@ guideLinks:
 ---
 
 <script setup lang="ts">
-import LinkList from "@/components/unique/LinkList.vue";
+import LinkList from "/.vitepress/components/unique/LinkList.vue";
 </script>
 
 # 学习资料
