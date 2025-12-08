@@ -6,3 +6,4 @@ docs/.vitepress/cache/
 
 # build outputs (如果以后有)
 dist/
+docs/.vitepress/dist/
