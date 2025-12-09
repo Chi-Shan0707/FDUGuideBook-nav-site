@@ -42,6 +42,10 @@ webLinks:
     link: https://annas-archive.org/
     icon: https://fduguidebook.com/icons/annas-archive.ico
     desc: 人类历史上最大的开源图书馆
+  - text: 中国大学 MOOC
+    link: https://www.icourse163.org/
+    icon: https://fduguidebook.com/icons/icourse.png
+    desc: 在线课程学习平台
 ---
 
 <script setup lang="ts">

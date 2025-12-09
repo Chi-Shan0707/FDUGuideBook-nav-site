@@ -22,4 +22,8 @@ features:
     icon: 📖
     details: 学习资源，课程资料
     link: /study
+  - title: 校内服务
+    icon: 🛠️
+    details: 选课，讲座，空教室查询
+    link: /tools
 ---

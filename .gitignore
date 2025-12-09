@@ -1,0 +1,9 @@
+# node modules
+node_modules/
+
+# Vite / VitePress cache
+docs/.vitepress/cache/
+
+# build outputs (如果以后有)
+dist/
+docs/.vitepress/dist/
