@@ -84,6 +84,7 @@ function nav() {
   return [
     { text: '首页', link: '/' },
     { text: '学习', link: '/study/' },
+    { text: '工具', link: '/tools/' },
     { text: '关于', link: '/about/' },
   ]
 }
@@ -95,6 +96,12 @@ function sidebar() {
         text: '学习',
         items: [
           { text: '学习资料', link: '/study' },
+        ]
+      },
+      {
+        text: '工具',
+        items: [
+          { text: '校内服务', link: '/tools' },
         ]
       },
       {
