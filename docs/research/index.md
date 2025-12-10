@@ -1,4 +1,8 @@
 ---
+prev:
+  text: 社团与社区
+  link: /clubs
+next: false
 links:
   - text: 复旦 CS 相关 Lab
     link: https://fudan-cs-labs.vercel.app/
@@ -13,3 +17,4 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 # 科研资源
 
 <LinkList :links="$frontmatter.links" />
+

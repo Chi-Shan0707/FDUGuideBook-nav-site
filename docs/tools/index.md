@@ -2,6 +2,12 @@
 # 工具页 frontmatter
 
 # 这里先定义一个简单的链接列表，后续可按需扩展为多组
+prev:
+  text: 学习资料
+  link: /study
+next:
+  text: 社团与社区
+  link: /clubs
 
 links:
   - text: eHall
@@ -43,5 +49,8 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 <LinkList :links="$frontmatter.links" />
 
 > 以下站点需在校园网环境下访问
-shwsl --shutdoen
+
 <LinkList :links="$frontmatter.innerLinks" />
+
+
+

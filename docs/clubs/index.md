@@ -1,4 +1,10 @@
 ---
+prev:
+  text: 校内服务
+  link: /tools
+next:
+  text: 科研资源
+  link: /research
 links:
   - text: 复旦基岩社
     link: https://fdcraft.github.io/
@@ -17,3 +23,5 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 # 社团与社区
 
 <LinkList :links="$frontmatter.links" />
+
+
