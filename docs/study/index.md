@@ -36,9 +36,9 @@ guideLinks:
     icon: https://cs101.fducslg.com/assets/fducslg.png
     desc: 复旦大学计算机入门指南
   - text: PCS服务队
-    link: https://fdupcs.top/
+    link: https://fdupcs.top/guides/
     icon: https://fdupcs.top/assets/logo.png
-    desc: 拯救全校师生的生产力危机
+    desc: 计算机相关问题解决指南
 webLinks:
   - text: Z-library
     link: https://z-library.sk/
