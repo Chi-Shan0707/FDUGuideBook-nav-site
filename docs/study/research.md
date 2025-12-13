@@ -2,7 +2,9 @@
 prev:
   text: 学习资料
   link: /study
-next: false
+next:
+  text: 飞跃手册
+  link: /study/fly
 links:
   - text: Fudan CS Labs
     link: https://fudan-cs-labs.vercel.app/

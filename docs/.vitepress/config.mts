@@ -104,6 +104,7 @@ function sidebar() {
         items: [
           { text: '学习资料', link: '/study' },
           { text: '科研资源', link: '/study/research' },
+          { text: '飞跃手册', link: '/study/fly' },
         ]
       },
       {
