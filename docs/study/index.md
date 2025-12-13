@@ -1,4 +1,10 @@
 ---
+prev: 
+  text: 社团组织
+  link: /campus/clubs
+next:
+  text: 科研资源
+  link: /study/research
 courseLinks:
   - text: FDU Sharing
     link: https://fdu-sharing.vercel.app/
@@ -16,6 +22,10 @@ courseLinks:
     link: https://github.com/Snivallus/FDU-Course-Notes-2024-2025
     icon: https://fduguidebook.com/icons/Github-Dark.svg
     desc: from Snivallus
+  - text: 大数据笔记分享
+    link: https://github.com/ForeverHaibara/Fudan-Courses
+    icon: https://fduguidebook.com/icons/Github-Dark.svg
+    desc: from ForeverHaibara
   - text: 香蕉空间
     link: https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:Solution
     icon: https://images.weserv.nl/?url=www.bananaspace.org/favicon.ico
@@ -30,9 +40,9 @@ guideLinks:
     icon: https://cs101.fducslg.com/assets/fducslg.png
     desc: 复旦大学计算机入门指南
   - text: PCS服务队
-    link: https://fdupcs.top/
+    link: https://fdupcs.top/guides/
     icon: https://fdupcs.top/assets/logo.png
-    desc: 拯救全校师生的生产力危机
+    desc: 计算机相关问题解决指南
 webLinks:
   - text: Z-library
     link: https://z-library.sk/

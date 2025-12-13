@@ -83,8 +83,8 @@ export default defineConfig({
 function nav() {
   return [
     { text: '首页', link: '/' },
+    { text: '校园', link: '/campus/' },
     { text: '学习', link: '/study/' },
-    { text: '工具', link: '/tools/' },
     { text: '关于', link: '/about/' },
   ]
 }
@@ -93,15 +93,18 @@ function sidebar() {
   return {
     '/': [
       {
-        text: '学习',
+        text: '校园',
         items: [
-          { text: '学习资料', link: '/study' },
+          { text: '校内服务', link: '/campus' },
+          { text: '社团组织', link: '/campus/clubs' },
         ]
       },
       {
-        text: '工具',
+        text: '学习',
         items: [
-          { text: '校内服务', link: '/tools' },
+          { text: '学习资料', link: '/study' },
+          { text: '科研资源', link: '/study/research' },
+          { text: '飞跃手册', link: '/study/fly' },
         ]
       },
       {

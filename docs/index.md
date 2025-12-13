@@ -24,6 +24,14 @@ features:
     link: /study
   - title: 校内服务
     icon: 🛠️
-    details: 选课，讲座，空教室查询
-    link: /tools
+    details: 选课，讲座，全校课表查询
+    link: /campus
+  - title: 社团组织
+    icon: 🧩
+    details: 学生社团，校内组织
+    link: /campus/clubs
+  - title: 科研资源
+    icon: 🔬
+    details: 实验室，科研信息
+    link: /study/research
 ---
