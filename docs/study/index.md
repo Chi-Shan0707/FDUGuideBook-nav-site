@@ -22,6 +22,10 @@ courseLinks:
     link: https://github.com/Snivallus/FDU-Course-Notes-2024-2025
     icon: https://fduguidebook.com/icons/Github-Dark.svg
     desc: from Snivallus
+  - text: 大数据笔记分享
+    link: https://github.com/ForeverHaibara/Fudan-Courses
+    icon: https://fduguidebook.com/icons/Github-Dark.svg
+    desc: from ForeverHaibara
   - text: 香蕉空间
     link: https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:Solution
     icon: https://images.weserv.nl/?url=www.bananaspace.org/favicon.ico
