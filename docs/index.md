@@ -25,13 +25,13 @@ features:
   - title: 校内服务
     icon: 🛠️
     details: 选课，讲座，全校课表查询
-    link: /tools
-  - title: 社团与社区
+    link: /campus
+  - title: 社团组织
     icon: 🧩
-    details: 学生社团与技术社区导航
-    link: /clubs
+    details: 学生社团，校内组织
+    link: /campus/clubs
   - title: 科研资源
     icon: 🔬
-    details: 复旦 CS 相关实验室与科研信息
-    link: /research
+    details: 实验室，科研信息
+    link: /study/research
 ---
