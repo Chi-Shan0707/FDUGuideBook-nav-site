@@ -16,14 +16,30 @@ links:
     link: https://elearning.fudan.edu.cn/
     icon: https://fduguidebook.com/icons/canvas.ico
     desc: 复旦大学学习管理系统
-  - text: 教务服务管理
+  - text: 教务服务管理（新版）
     link: https://fdjwgl.fudan.edu.cn/student/home
-    icon: https://fdjwgl.fudan.edu.cn/student/static/favicon.png
+    icon: https://fduguidebook.com/icons/fudan-jwfw.png
     desc: 教务教学相关服务入口
   - text: webVPN
     link: https://webvpn.fudan.edu.cn/login
     icon: https://fduguidebook.com/icons/webvpn.png
     desc: 校外访问校内资源入口
+  - text: 复旦云邮箱
+    link: https://mail.m.fudan.edu.cn/
+    icon: https://fduguidebook.com/icons/fudan-mail.ico
+    desc: 复旦云邮箱
+  - text: 选课系统（本科）
+    link: https://xk.fudan.edu.cn/course-selection/#/
+    icon: https://fduguidebook.com/icons/fudan-jwfw.png
+    desc: 选课事务
+  - text: 体育管理综合查询系统
+    link: https://fdtyjw.fudan.edu.cn/sportScore/
+    icon: https://fduguidebook.com/icons/fudan-blue.png
+    desc: 成绩、刷段情况查询，理论考试
+  - text: 缴费平台
+    link: https://cwgl.fudan.edu.cn/payment/
+    icon: https://fduguidebook.com/icons/fudan-blue.png
+    desc: 缴纳学费、住宿费、医保等
 innerLinks: 
   - text: 课表查询
     link: http://10.64.130.6/
