@@ -40,10 +40,21 @@ links:
     link: https://cwgl.fudan.edu.cn/payment/
     icon: https://fduguidebook.com/icons/fudan-blue.png
     desc: 缴纳学费、住宿费、医保等
+  - text: 2025复旦大学新生攻略手册
+    link: https://docs.qq.com/sheet/DR0RSUWxTd0tGTE1q?tab=22tuz7
+    icon: https://fduguidebook.com/icons/qqdoc.jpg
+    desc: 复旦新生，请查收这份最全新生攻略！
+  - text: 复旦大学请假条，ppt模板
+    link: https://github.com/FDUGuideBook/nav-site/tree/main/docs/public/files/templates
+    icon: https://fduguidebook.com/icons/Github-Dark.svg
+    desc: 一些你或许没有的模板
 innerLinks: 
   - text: 课表查询
     link: http://10.64.130.6/
     desc: 查询全校日期-教室-课程对应情况
+  - text: 考试座位表查询
+    link: http://10.64.130.6/exam.asp
+    desc: 暗中观察所有同学的考试
   - text: 正版软件
     link: https://zb.fudan.edu.cn/index.html
     icon: https://fduguidebook.com/icons/fudan-blue.png
